@@ -1,0 +1,11 @@
+id,first_name,last_name,phone,status,vehicle_type
+1,Sheryl,Wiegand-Huels,(565) 640-5734,inactive,car
+2,Mitchell,Denesik,(204) 294-2305,active,e-bike
+3,Simone,Will,(869) 586-0699,active,e-bike
+4,Twila,Stroman,(843) 757-0242,active,bicycle
+5,Lisa,Wiza,(256) 512-7230,active,e-bike
+6,Marietta,Flatley,(558) 529-6463,inactive,car
+7,Angelica,Hoeger,(428) 336-6941,active,scooter
+8,Maegan,Heidenreich,(292) 830-8803,active,scooter
+9,Urban,Turcotte,(659) 631-5138,active,e-bike
+10,Zaria,Ryan,(711) 990-5648,suspended,e-bike

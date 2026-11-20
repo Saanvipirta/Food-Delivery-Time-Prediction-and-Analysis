@@ -1,0 +1,11 @@
+id,created_at,order_id,status,subject,user_id
+1,2024-10-02 22:12:16,180,resolved,Order arrived late,11
+2,2025-06-25 20:47:21,52,resolved,Refund request,17
+3,2024-01-25 22:23:55,265,resolved,Wrong order,32
+4,2025-11-28 11:22:02,213,resolved,Coupon did not apply,15
+5,2024-03-20 10:56:48,326,resolved,Order arrived late,26
+6,2024-01-08 13:59:21,371,resolved,Order arrived late,39
+7,2024-02-18 17:23:40,260,resolved,Courier issue,24
+8,2024-12-24 17:21:22,110,resolved,Order arrived late,14
+9,2024-07-28 19:55:38,269,resolved,Refund request,26
+10,2025-09-22 14:52:27,346,resolved,Wrong order,37

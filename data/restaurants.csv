@@ -1,0 +1,61 @@
+id,address_id,description,is_active,name,rating
+1,23,Chef-owned kitchen,true,Stroman - Schamberger,4.2
+2,73,Late-night favourite,true,"Bruen, Waelchi and Blick",4.3
+3,45,Fast and fresh,true,West-Ziemann Inc,4.1
+4,91,Late-night favourite,true,Steuber LLC,4.1
+5,9,Neighbourhood spot,true,"Hoeger, Lindgren and Bergstrom",4.2
+6,70,Award-winning,true,"Littel-Emmerich, Green and Kuvalis",4.0
+7,40,Chef-owned kitchen,true,"Cassin, Wisozk and Ortiz",4.3
+8,5,Neighbourhood spot,true,"Davis, Howell and Bednar",4.1
+9,27,Family-run since 2009,true,Stark-Medhurst - Schamberger,4.1
+10,53,Neighbourhood spot,true,"Sporer, Runolfsson-Bradtke and Auer",4.2
+11,54,Chef-owned kitchen,true,Renner - Mayer,4.4
+12,47,Neighbourhood spot,true,Barton - Gleason,3.7
+13,29,Family-run since 2009,false,Rohan - Weissnat,3.8
+14,26,Award-winning,false,"Gislason, Heathcote and Terry",3.6
+15,98,Chef-owned kitchen,true,"Lang, Boyer and Rogahn",4.2
+16,65,Fast and fresh,true,"Corkery-Dickens, Borer and Wisoky",4.1
+17,52,Neighbourhood spot,true,"Kling, Konopelski and Sanford",4.3
+18,49,Chef-owned kitchen,true,"Skiles, Mosciski and Doyle",4.2
+19,2,Late-night favourite,true,Bahringer and Sons,4.4
+20,11,Family-run since 2009,true,Rice LLC,4.6
+21,81,Award-winning,true,Bergstrom Inc,4.2
+22,90,Fast and fresh,true,"Cole, Hane and Brakus",3.9
+23,100,Chef-owned kitchen,true,Abbott - Tremblay,4.3
+24,17,Late-night favourite,true,"Blanda-Bogan, Kunde and Metz",4.4
+25,51,Chef-owned kitchen,true,Labadie - Altenwerth,4.5
+26,89,Chef-owned kitchen,true,"Lesch, Schowalter and Wuckert",4.6
+27,43,Neighbourhood spot,true,"Baumbach, Pollich and Wilkinson",4.6
+28,84,Late-night favourite,true,Wilderman and Sons,4.2
+29,62,Family-run since 2009,true,Wilderman - Douglas,4.2
+30,85,Award-winning,true,Medhurst - Rodriguez,4.2
+31,48,Neighbourhood spot,true,MacGyver Group,4.1
+32,10,Fast and fresh,true,Towne - Bauch,4.0
+33,24,Chef-owned kitchen,true,"Morar, Funk and Reilly",4.1
+34,50,Fast and fresh,true,"Beier, Prosacco and Bernhard",4.1
+35,82,Family-run since 2009,true,Bradtke and Sons,4.5
+36,46,Chef-owned kitchen,true,Zemlak LLC,4.4
+37,72,Chef-owned kitchen,true,Emmerich-Adams - Hartmann,4.3
+38,68,Late-night favourite,true,Ritchie - Macejkovic,4.3
+39,93,Family-run since 2009,true,McCullough-Haley - Goodwin,4.5
+40,95,Fast and fresh,true,O'Reilly - Goldner,4.0
+41,15,Fast and fresh,true,"Corwin, Kuphal and Greenholt",4.1
+42,69,Chef-owned kitchen,true,Reinger - Christiansen,4.0
+43,38,Family-run since 2009,true,Beatty - Farrell,4.0
+44,78,Neighbourhood spot,true,Kuphal - Veum,4.0
+45,57,Neighbourhood spot,true,"Spinka, Harvey and Mohr",4.0
+46,66,Award-winning,true,Hyatt - Smith,4.4
+47,31,Award-winning,true,"Lowe, Rutherford and Johnston",4.1
+48,63,Chef-owned kitchen,true,Hackett - Nikolaus,3.7
+49,1,Award-winning,true,Casper - Schinner,4.0
+50,25,Fast and fresh,true,Stokes Group,4.6
+51,60,Late-night favourite,true,Wisoky Inc,4.1
+52,8,Late-night favourite,true,Legros - Schmitt,3.9
+53,33,Chef-owned kitchen,true,Ankunding - Dibbert,3.8
+54,41,Family-run since 2009,true,"VonRueden, Bauch and Reichel",3.9
+55,3,Neighbourhood spot,true,Hills - Erdman,4.0
+56,16,Fast and fresh,true,"Swift, Champlin and Ullrich",4.2
+57,14,Fast and fresh,true,"Spinka, Weber-Lehner and Brown",3.8
+58,75,Fast and fresh,true,Bednar Inc,4.5
+59,42,Award-winning,true,Crona - Paucek,4.5
+60,21,Late-night favourite,true,Kulas and Sons,4.3

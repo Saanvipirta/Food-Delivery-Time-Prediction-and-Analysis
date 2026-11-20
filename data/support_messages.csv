@@ -1,0 +1,21 @@
+id,created_at,message,sender_type,ticket_id
+1,2024-01-25 22:25:28,Can you look into this?,customer,3
+2,2024-07-30 09:19:36,Can you look into this?,agent,9
+3,2024-01-26 02:24:03,"Sorry about that, a refund is on its way",customer,3
+4,2025-09-24 02:00:17,Thanks for the quick help,agent,10
+5,2025-06-26 14:28:20,We have credited your account,agent,2
+6,2025-06-25 22:22:04,We have credited your account,customer,2
+7,2024-01-09 03:56:13,Could you send a photo?,customer,6
+8,2024-02-20 03:07:47,Thanks for the quick help,agent,7
+9,2024-03-21 13:47:57,"Sorry about that, a refund is on its way",agent,5
+10,2024-07-30 08:00:08,We have credited your account,agent,9
+11,2024-01-10 02:33:59,We have credited your account,customer,6
+12,2025-09-24 07:53:09,Could you send a photo?,customer,10
+13,2024-03-21 08:56:53,Could you send a photo?,agent,5
+14,2024-03-21 20:42:40,We have credited your account,customer,5
+15,2024-10-03 11:07:29,"Sorry about that, a refund is on its way",customer,1
+16,2024-01-10 10:50:24,Thanks for the quick help,customer,6
+17,2025-11-29 09:22:52,Could you send a photo?,customer,4
+18,2024-01-09 00:15:20,We have credited your account,agent,6
+19,2024-07-28 22:38:10,Can you look into this?,agent,9
+20,2024-10-04 17:02:36,We have credited your account,customer,1

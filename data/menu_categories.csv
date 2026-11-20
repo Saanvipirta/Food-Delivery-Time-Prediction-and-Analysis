@@ -1,0 +1,301 @@
+id,description,name,restaurant_id
+1,Good to share,Family meals,10
+2,Serves four,Drinks,24
+3,Made to order,Drinks,27
+4,Good to share,Sides,37
+5,Made to order,Sides,28
+6,Made to order,Lunch deals,12
+7,Made to order,Family meals,20
+8,Made to order,Mains,52
+9,Serves four,Lunch deals,60
+10,Good to share,Popular,9
+11,Order before 3 pm,Desserts,14
+12,Most ordered this month,Lunch deals,32
+13,Good to share,Family meals,21
+14,Made to order,Sides,2
+15,Order before 3 pm,Sides,39
+16,Made to order,Popular,36
+17,Most ordered this month,Sides,38
+18,Good to share,Family meals,43
+19,Made to order,Drinks,47
+20,Most ordered this month,Drinks,41
+21,Serves four,Desserts,47
+22,Order before 3 pm,Drinks,48
+23,Made to order,Sides,45
+24,Most ordered this month,Drinks,29
+25,Made to order,Mains,45
+26,Order before 3 pm,Lunch deals,45
+27,Made to order,Lunch deals,6
+28,Serves four,Mains,26
+29,Good to share,Popular,15
+30,Made to order,Sides,44
+31,Good to share,Popular,2
+32,Made to order,Drinks,30
+33,Serves four,Drinks,17
+34,Most ordered this month,Sides,46
+35,Most ordered this month,Desserts,19
+36,Good to share,Sides,9
+37,Serves four,Family meals,24
+38,Order before 3 pm,Family meals,25
+39,Good to share,Family meals,5
+40,Serves four,Desserts,29
+41,Serves four,Popular,42
+42,Good to share,Drinks,11
+43,Order before 3 pm,Popular,48
+44,Made to order,Popular,59
+45,Good to share,Drinks,36
+46,Made to order,Desserts,48
+47,Good to share,Mains,1
+48,Made to order,Drinks,22
+49,Order before 3 pm,Sides,11
+50,Good to share,Drinks,33
+51,Serves four,Desserts,59
+52,Most ordered this month,Mains,49
+53,Serves four,Sides,48
+54,Order before 3 pm,Family meals,29
+55,Most ordered this month,Family meals,51
+56,Most ordered this month,Mains,50
+57,Order before 3 pm,Mains,48
+58,Most ordered this month,Desserts,41
+59,Made to order,Desserts,26
+60,Most ordered this month,Popular,34
+61,Order before 3 pm,Mains,44
+62,Order before 3 pm,Desserts,13
+63,Good to share,Popular,33
+64,Serves four,Drinks,58
+65,Serves four,Lunch deals,1
+66,Good to share,Mains,11
+67,Serves four,Popular,18
+68,Order before 3 pm,Family meals,60
+69,Made to order,Mains,40
+70,Made to order,Lunch deals,7
+71,Good to share,Sides,6
+72,Good to share,Lunch deals,9
+73,Serves four,Lunch deals,37
+74,Most ordered this month,Drinks,15
+75,Most ordered this month,Lunch deals,4
+76,Good to share,Lunch deals,13
+77,Order before 3 pm,Lunch deals,59
+78,Good to share,Mains,22
+79,Made to order,Sides,51
+80,Serves four,Mains,12
+81,Order before 3 pm,Desserts,43
+82,Good to share,Family meals,6
+83,Serves four,Sides,32
+84,Good to share,Drinks,46
+85,Order before 3 pm,Family meals,47
+86,Order before 3 pm,Desserts,49
+87,Good to share,Mains,51
+88,Order before 3 pm,Mains,53
+89,Most ordered this month,Drinks,5
+90,Most ordered this month,Popular,32
+91,Good to share,Lunch deals,14
+92,Made to order,Family meals,58
+93,Order before 3 pm,Sides,7
+94,Made to order,Mains,17
+95,Order before 3 pm,Popular,37
+96,Good to share,Popular,26
+97,Made to order,Lunch deals,35
+98,Most ordered this month,Popular,31
+99,Made to order,Sides,1
+100,Order before 3 pm,Sides,58
+101,Made to order,Lunch deals,54
+102,Serves four,Sides,35
+103,Order before 3 pm,Mains,34
+104,Serves four,Mains,55
+105,Good to share,Drinks,40
+106,Made to order,Drinks,49
+107,Serves four,Sides,31
+108,Order before 3 pm,Desserts,45
+109,Serves four,Desserts,24
+110,Made to order,Sides,54
+111,Most ordered this month,Desserts,12
+112,Good to share,Lunch deals,26
+113,Order before 3 pm,Mains,43
+114,Order before 3 pm,Family meals,33
+115,Good to share,Popular,54
+116,Most ordered this month,Drinks,12
+117,Order before 3 pm,Desserts,18
+118,Good to share,Family meals,37
+119,Order before 3 pm,Desserts,51
+120,Most ordered this month,Family meals,7
+121,Order before 3 pm,Desserts,40
+122,Good to share,Mains,10
+123,Serves four,Lunch deals,41
+124,Order before 3 pm,Drinks,18
+125,Made to order,Lunch deals,25
+126,Good to share,Sides,23
+127,Order before 3 pm,Sides,5
+128,Made to order,Mains,59
+129,Most ordered this month,Popular,1
+130,Order before 3 pm,Mains,23
+131,Order before 3 pm,Popular,12
+132,Order before 3 pm,Family meals,26
+133,Order before 3 pm,Desserts,2
+134,Good to share,Popular,52
+135,Made to order,Mains,39
+136,Good to share,Sides,16
+137,Good to share,Mains,30
+138,Good to share,Family meals,22
+139,Good to share,Drinks,21
+140,Made to order,Drinks,6
+141,Serves four,Popular,55
+142,Serves four,Lunch deals,3
+143,Most ordered this month,Popular,21
+144,Most ordered this month,Family meals,2
+145,Made to order,Mains,18
+146,Made to order,Mains,31
+147,Order before 3 pm,Desserts,55
+148,Order before 3 pm,Sides,57
+149,Good to share,Mains,56
+150,Serves four,Drinks,34
+151,Good to share,Mains,24
+152,Good to share,Drinks,44
+153,Made to order,Mains,37
+154,Made to order,Lunch deals,30
+155,Made to order,Mains,20
+156,Made to order,Family meals,32
+157,Made to order,Desserts,57
+158,Serves four,Drinks,3
+159,Serves four,Popular,25
+160,Order before 3 pm,Drinks,25
+161,Most ordered this month,Drinks,2
+162,Made to order,Drinks,16
+163,Most ordered this month,Family meals,35
+164,Serves four,Family meals,30
+165,Made to order,Family meals,28
+166,Order before 3 pm,Mains,9
+167,Most ordered this month,Drinks,32
+168,Serves four,Lunch deals,15
+169,Good to share,Drinks,57
+170,Made to order,Popular,44
+171,Serves four,Desserts,5
+172,Most ordered this month,Mains,2
+173,Most ordered this month,Desserts,15
+174,Most ordered this month,Family meals,41
+175,Good to share,Family meals,1
+176,Most ordered this month,Desserts,34
+177,Order before 3 pm,Mains,27
+178,Order before 3 pm,Desserts,42
+179,Made to order,Family meals,17
+180,Most ordered this month,Popular,3
+181,Most ordered this month,Lunch deals,56
+182,Most ordered this month,Popular,7
+183,Order before 3 pm,Mains,25
+184,Made to order,Sides,53
+185,Most ordered this month,Family meals,4
+186,Order before 3 pm,Popular,4
+187,Serves four,Family meals,50
+188,Most ordered this month,Desserts,53
+189,Order before 3 pm,Drinks,9
+190,Good to share,Sides,10
+191,Order before 3 pm,Desserts,3
+192,Most ordered this month,Desserts,32
+193,Most ordered this month,Lunch deals,22
+194,Order before 3 pm,Desserts,9
+195,Serves four,Lunch deals,17
+196,Serves four,Drinks,37
+197,Order before 3 pm,Desserts,37
+198,Made to order,Mains,28
+199,Made to order,Lunch deals,23
+200,Most ordered this month,Family meals,18
+201,Made to order,Lunch deals,19
+202,Made to order,Popular,20
+203,Good to share,Desserts,21
+204,Most ordered this month,Lunch deals,24
+205,Good to share,Drinks,23
+206,Order before 3 pm,Drinks,26
+207,Order before 3 pm,Sides,4
+208,Serves four,Popular,10
+209,Most ordered this month,Drinks,13
+210,Made to order,Drinks,50
+211,Made to order,Family meals,48
+212,Order before 3 pm,Drinks,43
+213,Order before 3 pm,Sides,47
+214,Made to order,Desserts,54
+215,Made to order,Popular,28
+216,Order before 3 pm,Drinks,51
+217,Most ordered this month,Popular,19
+218,Made to order,Lunch deals,57
+219,Good to share,Mains,46
+220,Good to share,Mains,54
+221,Serves four,Drinks,53
+222,Most ordered this month,Desserts,27
+223,Good to share,Sides,19
+224,Good to share,Popular,56
+225,Good to share,Popular,6
+226,Good to share,Popular,57
+227,Order before 3 pm,Sides,43
+228,Made to order,Mains,60
+229,Serves four,Desserts,1
+230,Good to share,Popular,47
+231,Serves four,Family meals,46
+232,Made to order,Lunch deals,49
+233,Made to order,Mains,6
+234,Order before 3 pm,Drinks,45
+235,Order before 3 pm,Lunch deals,46
+236,Most ordered this month,Sides,49
+237,Serves four,Lunch deals,5
+238,Order before 3 pm,Lunch deals,16
+239,Order before 3 pm,Mains,57
+240,Good to share,Popular,58
+241,Good to share,Sides,18
+242,Made to order,Family meals,3
+243,Order before 3 pm,Desserts,4
+244,Most ordered this month,Sides,55
+245,Good to share,Mains,58
+246,Made to order,Mains,3
+247,Order before 3 pm,Sides,59
+248,Good to share,Popular,8
+249,Made to order,Desserts,7
+250,Serves four,Lunch deals,29
+251,Serves four,Lunch deals,11
+252,Most ordered this month,Popular,27
+253,Order before 3 pm,Desserts,28
+254,Serves four,Mains,29
+255,Good to share,Drinks,19
+256,Serves four,Mains,32
+257,Good to share,Family meals,31
+258,Good to share,Lunch deals,27
+259,Good to share,Drinks,38
+260,Serves four,Popular,22
+261,Most ordered this month,Desserts,22
+262,Most ordered this month,Lunch deals,18
+263,Made to order,Mains,19
+264,Serves four,Mains,16
+265,Made to order,Drinks,20
+266,Most ordered this month,Family meals,45
+267,Made to order,Family meals,15
+268,Made to order,Sides,12
+269,Order before 3 pm,Family meals,53
+270,Most ordered this month,Family meals,52
+271,Good to share,Mains,4
+272,Good to share,Family meals,34
+273,Order before 3 pm,Drinks,28
+274,Order before 3 pm,Drinks,35
+275,Good to share,Drinks,31
+276,Most ordered this month,Family meals,36
+277,Made to order,Family meals,38
+278,Good to share,Sides,36
+279,Made to order,Sides,34
+280,Made to order,Mains,5
+281,Made to order,Mains,7
+282,Good to share,Popular,46
+283,Order before 3 pm,Family meals,57
+284,Good to share,Sides,60
+285,Most ordered this month,Sides,50
+286,Order before 3 pm,Drinks,60
+287,Most ordered this month,Popular,5
+288,Good to share,Mains,8
+289,Order before 3 pm,Sides,3
+290,Most ordered this month,Family meals,8
+291,Good to share,Popular,41
+292,Serves four,Family meals,39
+293,Made to order,Popular,30
+294,Most ordered this month,Family meals,40
+295,Order before 3 pm,Desserts,25
+296,Made to order,Drinks,39
+297,Order before 3 pm,Sides,40
+298,Made to order,Mains,41
+299,Serves four,Popular,40
+300,Most ordered this month,Mains,13
